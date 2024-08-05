@@ -1,0 +1,206 @@
+平均RGB = (0, 0, 254)
+平均YUV = (40.89, 239.51, 109.97)
+
+單獨條列每張Y值:
+40.892
+40.892
+40.892
+40.892
+40.892
+40.892
+40.892
+40.892
+40.892
+40.892
+40.892
+40.892
+40.892
+40.892
+40.892
+40.892
+40.892
+40.892
+40.892
+40.892
+40.892
+40.892
+40.892
+40.892
+40.892
+40.892
+40.892
+40.892
+40.892
+40.892
+40.892
+40.892
+40.892
+40.892
+40.892
+40.892
+40.892
+40.892
+40.892
+40.892
+40.892
+40.892
+40.892
+40.892
+40.892
+40.892
+40.892
+40.892
+40.892
+40.892
+40.892
+40.892
+40.892
+40.892
+40.892
+40.892
+40.892
+40.892
+40.892
+40.892
+40.892
+40.892
+40.892
+40.892
+40.892
+40.892
+40.892
+40.892
+40.892
+40.892
+40.892
+40.892
+40.892
+40.892
+40.892
+40.892
+40.892
+40.892
+40.892
+40.892
+40.892
+40.892
+40.892
+40.892
+40.892
+40.892
+40.892
+40.892
+40.892
+40.892
+40.892
+40.892
+40.892
+40.892
+40.892
+40.892
+40.892
+40.892
+40.892
+40.892
+
+E:\Desktop\qrcode\螢幕-一般螢幕\iphone5\藍色\藍色\IMG_9506.JPG avg_RGB=(0, 0, 254)  avg_YUV=(40.892, 239.506, 109.966)
+E:\Desktop\qrcode\螢幕-一般螢幕\iphone5\藍色\藍色\IMG_9507.JPG avg_RGB=(0, 0, 254)  avg_YUV=(40.892, 239.506, 109.966)
+E:\Desktop\qrcode\螢幕-一般螢幕\iphone5\藍色\藍色\IMG_9508.JPG avg_RGB=(0, 0, 254)  avg_YUV=(40.892, 239.506, 109.966)
+E:\Desktop\qrcode\螢幕-一般螢幕\iphone5\藍色\藍色\IMG_9509.JPG avg_RGB=(0, 0, 254)  avg_YUV=(40.892, 239.506, 109.966)
+E:\Desktop\qrcode\螢幕-一般螢幕\iphone5\藍色\藍色\IMG_9510.JPG avg_RGB=(0, 0, 254)  avg_YUV=(40.892, 239.506, 109.966)
+E:\Desktop\qrcode\螢幕-一般螢幕\iphone5\藍色\藍色\IMG_9511.JPG avg_RGB=(0, 0, 254)  avg_YUV=(40.892, 239.506, 109.966)
+E:\Desktop\qrcode\螢幕-一般螢幕\iphone5\藍色\藍色\IMG_9512.JPG avg_RGB=(0, 0, 254)  avg_YUV=(40.892, 239.506, 109.966)
+E:\Desktop\qrcode\螢幕-一般螢幕\iphone5\藍色\藍色\IMG_9513.JPG avg_RGB=(0, 0, 254)  avg_YUV=(40.892, 239.506, 109.966)
+E:\Desktop\qrcode\螢幕-一般螢幕\iphone5\藍色\藍色\IMG_9514.JPG avg_RGB=(0, 0, 254)  avg_YUV=(40.892, 239.506, 109.966)
+E:\Desktop\qrcode\螢幕-一般螢幕\iphone5\藍色\藍色\IMG_9515.JPG avg_RGB=(0, 0, 254)  avg_YUV=(40.892, 239.506, 109.966)
+E:\Desktop\qrcode\螢幕-一般螢幕\iphone5\藍色\藍色\IMG_9516.JPG avg_RGB=(0, 0, 254)  avg_YUV=(40.892, 239.506, 109.966)
+E:\Desktop\qrcode\螢幕-一般螢幕\iphone5\藍色\藍色\IMG_9517.JPG avg_RGB=(0, 0, 254)  avg_YUV=(40.892, 239.506, 109.966)
+E:\Desktop\qrcode\螢幕-一般螢幕\iphone5\藍色\藍色\IMG_9518.JPG avg_RGB=(0, 0, 254)  avg_YUV=(40.892, 239.506, 109.966)
+E:\Desktop\qrcode\螢幕-一般螢幕\iphone5\藍色\藍色\IMG_9519.JPG avg_RGB=(0, 0, 254)  avg_YUV=(40.892, 239.506, 109.966)
+E:\Desktop\qrcode\螢幕-一般螢幕\iphone5\藍色\藍色\IMG_9520.JPG avg_RGB=(0, 0, 254)  avg_YUV=(40.892, 239.506, 109.966)
+E:\Desktop\qrcode\螢幕-一般螢幕\iphone5\藍色\藍色\IMG_9521.JPG avg_RGB=(0, 0, 254)  avg_YUV=(40.892, 239.506, 109.966)
+E:\Desktop\qrcode\螢幕-一般螢幕\iphone5\藍色\藍色\IMG_9522.JPG avg_RGB=(0, 0, 254)  avg_YUV=(40.892, 239.506, 109.966)
+E:\Desktop\qrcode\螢幕-一般螢幕\iphone5\藍色\藍色\IMG_9523.JPG avg_RGB=(0, 0, 254)  avg_YUV=(40.892, 239.506, 109.966)
+E:\Desktop\qrcode\螢幕-一般螢幕\iphone5\藍色\藍色\IMG_9524.JPG avg_RGB=(0, 0, 254)  avg_YUV=(40.892, 239.506, 109.966)
+E:\Desktop\qrcode\螢幕-一般螢幕\iphone5\藍色\藍色\IMG_9525.JPG avg_RGB=(0, 0, 254)  avg_YUV=(40.892, 239.506, 109.966)
+E:\Desktop\qrcode\螢幕-一般螢幕\iphone5\藍色\藍色\IMG_9526.JPG avg_RGB=(0, 0, 254)  avg_YUV=(40.892, 239.506, 109.966)
+E:\Desktop\qrcode\螢幕-一般螢幕\iphone5\藍色\藍色\IMG_9527.JPG avg_RGB=(0, 0, 254)  avg_YUV=(40.892, 239.506, 109.966)
+E:\Desktop\qrcode\螢幕-一般螢幕\iphone5\藍色\藍色\IMG_9528.JPG avg_RGB=(0, 0, 254)  avg_YUV=(40.892, 239.506, 109.966)
+E:\Desktop\qrcode\螢幕-一般螢幕\iphone5\藍色\藍色\IMG_9529.JPG avg_RGB=(0, 0, 254)  avg_YUV=(40.892, 239.506, 109.966)
+E:\Desktop\qrcode\螢幕-一般螢幕\iphone5\藍色\藍色\IMG_9530.JPG avg_RGB=(0, 0, 254)  avg_YUV=(40.892, 239.506, 109.966)
+E:\Desktop\qrcode\螢幕-一般螢幕\iphone5\藍色\藍色\IMG_9531.JPG avg_RGB=(0, 0, 254)  avg_YUV=(40.892, 239.506, 109.966)
+E:\Desktop\qrcode\螢幕-一般螢幕\iphone5\藍色\藍色\IMG_9532.JPG avg_RGB=(0, 0, 254)  avg_YUV=(40.892, 239.506, 109.966)
+E:\Desktop\qrcode\螢幕-一般螢幕\iphone5\藍色\藍色\IMG_9533.JPG avg_RGB=(0, 0, 254)  avg_YUV=(40.892, 239.506, 109.966)
+E:\Desktop\qrcode\螢幕-一般螢幕\iphone5\藍色\藍色\IMG_9534.JPG avg_RGB=(0, 0, 254)  avg_YUV=(40.892, 239.506, 109.966)
+E:\Desktop\qrcode\螢幕-一般螢幕\iphone5\藍色\藍色\IMG_9535.JPG avg_RGB=(0, 0, 254)  avg_YUV=(40.892, 239.506, 109.966)
+E:\Desktop\qrcode\螢幕-一般螢幕\iphone5\藍色\藍色\IMG_9536.JPG avg_RGB=(0, 0, 254)  avg_YUV=(40.892, 239.506, 109.966)
+E:\Desktop\qrcode\螢幕-一般螢幕\iphone5\藍色\藍色\IMG_9537.JPG avg_RGB=(0, 0, 254)  avg_YUV=(40.892, 239.506, 109.966)
+E:\Desktop\qrcode\螢幕-一般螢幕\iphone5\藍色\藍色\IMG_9538.JPG avg_RGB=(0, 0, 254)  avg_YUV=(40.892, 239.506, 109.966)
+E:\Desktop\qrcode\螢幕-一般螢幕\iphone5\藍色\藍色\IMG_9539.JPG avg_RGB=(0, 0, 254)  avg_YUV=(40.892, 239.506, 109.966)
+E:\Desktop\qrcode\螢幕-一般螢幕\iphone5\藍色\藍色\IMG_9540.JPG avg_RGB=(0, 0, 254)  avg_YUV=(40.892, 239.506, 109.966)
+E:\Desktop\qrcode\螢幕-一般螢幕\iphone5\藍色\藍色\IMG_9541.JPG avg_RGB=(0, 0, 254)  avg_YUV=(40.892, 239.506, 109.966)
+E:\Desktop\qrcode\螢幕-一般螢幕\iphone5\藍色\藍色\IMG_9542.JPG avg_RGB=(0, 0, 254)  avg_YUV=(40.892, 239.506, 109.966)
+E:\Desktop\qrcode\螢幕-一般螢幕\iphone5\藍色\藍色\IMG_9543.JPG avg_RGB=(0, 0, 254)  avg_YUV=(40.892, 239.506, 109.966)
+E:\Desktop\qrcode\螢幕-一般螢幕\iphone5\藍色\藍色\IMG_9544.JPG avg_RGB=(0, 0, 254)  avg_YUV=(40.892, 239.506, 109.966)
+E:\Desktop\qrcode\螢幕-一般螢幕\iphone5\藍色\藍色\IMG_9545.JPG avg_RGB=(0, 0, 254)  avg_YUV=(40.892, 239.506, 109.966)
+E:\Desktop\qrcode\螢幕-一般螢幕\iphone5\藍色\藍色\IMG_9546.JPG avg_RGB=(0, 0, 254)  avg_YUV=(40.892, 239.506, 109.966)
+E:\Desktop\qrcode\螢幕-一般螢幕\iphone5\藍色\藍色\IMG_9547.JPG avg_RGB=(0, 0, 254)  avg_YUV=(40.892, 239.506, 109.966)
+E:\Desktop\qrcode\螢幕-一般螢幕\iphone5\藍色\藍色\IMG_9548.JPG avg_RGB=(0, 0, 254)  avg_YUV=(40.892, 239.506, 109.966)
+E:\Desktop\qrcode\螢幕-一般螢幕\iphone5\藍色\藍色\IMG_9549.JPG avg_RGB=(0, 0, 254)  avg_YUV=(40.892, 239.506, 109.966)
+E:\Desktop\qrcode\螢幕-一般螢幕\iphone5\藍色\藍色\IMG_9550.JPG avg_RGB=(0, 0, 254)  avg_YUV=(40.892, 239.506, 109.966)
+E:\Desktop\qrcode\螢幕-一般螢幕\iphone5\藍色\藍色\IMG_9551.JPG avg_RGB=(0, 0, 254)  avg_YUV=(40.892, 239.506, 109.966)
+E:\Desktop\qrcode\螢幕-一般螢幕\iphone5\藍色\藍色\IMG_9552.JPG avg_RGB=(0, 0, 254)  avg_YUV=(40.892, 239.506, 109.966)
+E:\Desktop\qrcode\螢幕-一般螢幕\iphone5\藍色\藍色\IMG_9553.JPG avg_RGB=(0, 0, 254)  avg_YUV=(40.892, 239.506, 109.966)
+E:\Desktop\qrcode\螢幕-一般螢幕\iphone5\藍色\藍色\IMG_9554.JPG avg_RGB=(0, 0, 254)  avg_YUV=(40.892, 239.506, 109.966)
+E:\Desktop\qrcode\螢幕-一般螢幕\iphone5\藍色\藍色\IMG_9555.JPG avg_RGB=(0, 0, 254)  avg_YUV=(40.892, 239.506, 109.966)
+E:\Desktop\qrcode\螢幕-一般螢幕\iphone5\藍色\藍色\IMG_9556.JPG avg_RGB=(0, 0, 254)  avg_YUV=(40.892, 239.506, 109.966)
+E:\Desktop\qrcode\螢幕-一般螢幕\iphone5\藍色\藍色\IMG_9557.JPG avg_RGB=(0, 0, 254)  avg_YUV=(40.892, 239.506, 109.966)
+E:\Desktop\qrcode\螢幕-一般螢幕\iphone5\藍色\藍色\IMG_9558.JPG avg_RGB=(0, 0, 254)  avg_YUV=(40.892, 239.506, 109.966)
+E:\Desktop\qrcode\螢幕-一般螢幕\iphone5\藍色\藍色\IMG_9559.JPG avg_RGB=(0, 0, 254)  avg_YUV=(40.892, 239.506, 109.966)
+E:\Desktop\qrcode\螢幕-一般螢幕\iphone5\藍色\藍色\IMG_9560.JPG avg_RGB=(0, 0, 254)  avg_YUV=(40.892, 239.506, 109.966)
+E:\Desktop\qrcode\螢幕-一般螢幕\iphone5\藍色\藍色\IMG_9561.JPG avg_RGB=(0, 0, 254)  avg_YUV=(40.892, 239.506, 109.966)
+E:\Desktop\qrcode\螢幕-一般螢幕\iphone5\藍色\藍色\IMG_9562.JPG avg_RGB=(0, 0, 254)  avg_YUV=(40.892, 239.506, 109.966)
+E:\Desktop\qrcode\螢幕-一般螢幕\iphone5\藍色\藍色\IMG_9563.JPG avg_RGB=(0, 0, 254)  avg_YUV=(40.892, 239.506, 109.966)
+E:\Desktop\qrcode\螢幕-一般螢幕\iphone5\藍色\藍色\IMG_9564.JPG avg_RGB=(0, 0, 254)  avg_YUV=(40.892, 239.506, 109.966)
+E:\Desktop\qrcode\螢幕-一般螢幕\iphone5\藍色\藍色\IMG_9565.JPG avg_RGB=(0, 0, 254)  avg_YUV=(40.892, 239.506, 109.966)
+E:\Desktop\qrcode\螢幕-一般螢幕\iphone5\藍色\藍色\IMG_9566.JPG avg_RGB=(0, 0, 254)  avg_YUV=(40.892, 239.506, 109.966)
+E:\Desktop\qrcode\螢幕-一般螢幕\iphone5\藍色\藍色\IMG_9567.JPG avg_RGB=(0, 0, 254)  avg_YUV=(40.892, 239.506, 109.966)
+E:\Desktop\qrcode\螢幕-一般螢幕\iphone5\藍色\藍色\IMG_9568.JPG avg_RGB=(0, 0, 254)  avg_YUV=(40.892, 239.506, 109.966)
+E:\Desktop\qrcode\螢幕-一般螢幕\iphone5\藍色\藍色\IMG_9569.JPG avg_RGB=(0, 0, 254)  avg_YUV=(40.892, 239.506, 109.966)
+E:\Desktop\qrcode\螢幕-一般螢幕\iphone5\藍色\藍色\IMG_9570.JPG avg_RGB=(0, 0, 254)  avg_YUV=(40.892, 239.506, 109.966)
+E:\Desktop\qrcode\螢幕-一般螢幕\iphone5\藍色\藍色\IMG_9571.JPG avg_RGB=(0, 0, 254)  avg_YUV=(40.892, 239.506, 109.966)
+E:\Desktop\qrcode\螢幕-一般螢幕\iphone5\藍色\藍色\IMG_9572.JPG avg_RGB=(0, 0, 254)  avg_YUV=(40.892, 239.506, 109.966)
+E:\Desktop\qrcode\螢幕-一般螢幕\iphone5\藍色\藍色\IMG_9573.JPG avg_RGB=(0, 0, 254)  avg_YUV=(40.892, 239.506, 109.966)
+E:\Desktop\qrcode\螢幕-一般螢幕\iphone5\藍色\藍色\IMG_9574.JPG avg_RGB=(0, 0, 254)  avg_YUV=(40.892, 239.506, 109.966)
+E:\Desktop\qrcode\螢幕-一般螢幕\iphone5\藍色\藍色\IMG_9575.JPG avg_RGB=(0, 0, 254)  avg_YUV=(40.892, 239.506, 109.966)
+E:\Desktop\qrcode\螢幕-一般螢幕\iphone5\藍色\藍色\IMG_9576.JPG avg_RGB=(0, 0, 254)  avg_YUV=(40.892, 239.506, 109.966)
+E:\Desktop\qrcode\螢幕-一般螢幕\iphone5\藍色\藍色\IMG_9577.JPG avg_RGB=(0, 0, 254)  avg_YUV=(40.892, 239.506, 109.966)
+E:\Desktop\qrcode\螢幕-一般螢幕\iphone5\藍色\藍色\IMG_9578.JPG avg_RGB=(0, 0, 254)  avg_YUV=(40.892, 239.506, 109.966)
+E:\Desktop\qrcode\螢幕-一般螢幕\iphone5\藍色\藍色\IMG_9579.JPG avg_RGB=(0, 0, 254)  avg_YUV=(40.892, 239.506, 109.966)
+E:\Desktop\qrcode\螢幕-一般螢幕\iphone5\藍色\藍色\IMG_9580.JPG avg_RGB=(0, 0, 254)  avg_YUV=(40.892, 239.506, 109.966)
+E:\Desktop\qrcode\螢幕-一般螢幕\iphone5\藍色\藍色\IMG_9581.JPG avg_RGB=(0, 0, 254)  avg_YUV=(40.892, 239.506, 109.966)
+E:\Desktop\qrcode\螢幕-一般螢幕\iphone5\藍色\藍色\IMG_9582.JPG avg_RGB=(0, 0, 254)  avg_YUV=(40.892, 239.506, 109.966)
+E:\Desktop\qrcode\螢幕-一般螢幕\iphone5\藍色\藍色\IMG_9583.JPG avg_RGB=(0, 0, 254)  avg_YUV=(40.892, 239.506, 109.966)
+E:\Desktop\qrcode\螢幕-一般螢幕\iphone5\藍色\藍色\IMG_9584.JPG avg_RGB=(0, 0, 254)  avg_YUV=(40.892, 239.506, 109.966)
+E:\Desktop\qrcode\螢幕-一般螢幕\iphone5\藍色\藍色\IMG_9585.JPG avg_RGB=(0, 0, 254)  avg_YUV=(40.892, 239.506, 109.966)
+E:\Desktop\qrcode\螢幕-一般螢幕\iphone5\藍色\藍色\IMG_9586.JPG avg_RGB=(0, 0, 254)  avg_YUV=(40.892, 239.506, 109.966)
+E:\Desktop\qrcode\螢幕-一般螢幕\iphone5\藍色\藍色\IMG_9587.JPG avg_RGB=(0, 0, 254)  avg_YUV=(40.892, 239.506, 109.966)
+E:\Desktop\qrcode\螢幕-一般螢幕\iphone5\藍色\藍色\IMG_9588.JPG avg_RGB=(0, 0, 254)  avg_YUV=(40.892, 239.506, 109.966)
+E:\Desktop\qrcode\螢幕-一般螢幕\iphone5\藍色\藍色\IMG_9589.JPG avg_RGB=(0, 0, 254)  avg_YUV=(40.892, 239.506, 109.966)
+E:\Desktop\qrcode\螢幕-一般螢幕\iphone5\藍色\藍色\IMG_9590.JPG avg_RGB=(0, 0, 254)  avg_YUV=(40.892, 239.506, 109.966)
+E:\Desktop\qrcode\螢幕-一般螢幕\iphone5\藍色\藍色\IMG_9591.JPG avg_RGB=(0, 0, 254)  avg_YUV=(40.892, 239.506, 109.966)
+E:\Desktop\qrcode\螢幕-一般螢幕\iphone5\藍色\藍色\IMG_9592.JPG avg_RGB=(0, 0, 254)  avg_YUV=(40.892, 239.506, 109.966)
+E:\Desktop\qrcode\螢幕-一般螢幕\iphone5\藍色\藍色\IMG_9593.JPG avg_RGB=(0, 0, 254)  avg_YUV=(40.892, 239.506, 109.966)
+E:\Desktop\qrcode\螢幕-一般螢幕\iphone5\藍色\藍色\IMG_9594.JPG avg_RGB=(0, 0, 254)  avg_YUV=(40.892, 239.506, 109.966)
+E:\Desktop\qrcode\螢幕-一般螢幕\iphone5\藍色\藍色\IMG_9595.JPG avg_RGB=(0, 0, 254)  avg_YUV=(40.892, 239.506, 109.966)
+E:\Desktop\qrcode\螢幕-一般螢幕\iphone5\藍色\藍色\IMG_9596.JPG avg_RGB=(0, 0, 254)  avg_YUV=(40.892, 239.506, 109.966)
+E:\Desktop\qrcode\螢幕-一般螢幕\iphone5\藍色\藍色\IMG_9597.JPG avg_RGB=(0, 0, 254)  avg_YUV=(40.892, 239.506, 109.966)
+E:\Desktop\qrcode\螢幕-一般螢幕\iphone5\藍色\藍色\IMG_9598.JPG avg_RGB=(0, 0, 254)  avg_YUV=(40.892, 239.506, 109.966)
+E:\Desktop\qrcode\螢幕-一般螢幕\iphone5\藍色\藍色\IMG_9599.JPG avg_RGB=(0, 0, 254)  avg_YUV=(40.892, 239.506, 109.966)
+E:\Desktop\qrcode\螢幕-一般螢幕\iphone5\藍色\藍色\IMG_9600.JPG avg_RGB=(0, 0, 254)  avg_YUV=(40.892, 239.506, 109.966)
+E:\Desktop\qrcode\螢幕-一般螢幕\iphone5\藍色\藍色\IMG_9601.JPG avg_RGB=(0, 0, 254)  avg_YUV=(40.892, 239.506, 109.966)
+E:\Desktop\qrcode\螢幕-一般螢幕\iphone5\藍色\藍色\IMG_9602.JPG avg_RGB=(0, 0, 254)  avg_YUV=(40.892, 239.506, 109.966)
+E:\Desktop\qrcode\螢幕-一般螢幕\iphone5\藍色\藍色\IMG_9603.JPG avg_RGB=(0, 0, 254)  avg_YUV=(40.892, 239.506, 109.966)
+E:\Desktop\qrcode\螢幕-一般螢幕\iphone5\藍色\藍色\IMG_9604.JPG avg_RGB=(0, 0, 254)  avg_YUV=(40.892, 239.506, 109.966)
+E:\Desktop\qrcode\螢幕-一般螢幕\iphone5\藍色\藍色\IMG_9605.JPG avg_RGB=(0, 0, 254)  avg_YUV=(40.892, 239.506, 109.966)
+
