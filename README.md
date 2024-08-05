@@ -26,4 +26,4 @@ python color_masked_qr_code.py
 
 To fully read the QR code information, you need to prepare red cellophane. You can use a standard QR code reader. Without the cellophane, you can read the first message. By covering the QR code with the cellophane, you can read the second message. Please see the below example.
 
-![The way to read messages](./test_configuration.jpg "The way to read messages")
+![The way to read messages](./imgs/configuration.jpg "The way to read messages")
